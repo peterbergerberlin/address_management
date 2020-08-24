@@ -1,0 +1,15 @@
+1;0;;Linus;Neumann;Teststr 12;12378;Berlin;linus@ccc.de
+2;1;Chaos GmbH;Tim;Pritlove;Teststr 22;12478;Berlin;tim@ccc.de
+3;1;Test GmbH;Clemens;Schrimpe;Teststr 45;10398;Berlin;clemens@ccc.de
+4;0;;Testi;Test;Teststr 42;12345;Berlin;test@test.de
+5;0;;vn1;nn1;str1;plz1;ort1;email1
+6;0;;vn1;nn2;str2;plz1;ort1;email2
+7;0;;vn1;nn1;str2;plz2;ort2;email3
+8;0;;vn2;nn2;str3;plz3;ort3;email4
+9;0;;vn1;nn2;str3;plz3;ort3;email5
+10;1;fn1;vn1;nn1;str1;plz1;ort1;email1
+11;1;fn1;vn1;nn2;str2;plz1;ort1;email2
+12;1;fn2;vn1;nn1;str2;plz2;ort2;email3
+13;1;fn2;vn2;nn2;str3;plz3;ort3;email4
+14;1;fn3;vn1;nn2;str3;plz3;ort3;email5
+15;0;;1;2;3;4;5;6
